@@ -11,3 +11,4 @@ This project loads multiple AdventureWorks CSV files hosted on GitHub directly i
 After ingestion, the data lands in the Bronze layer of the Medallion architecture.
 
 # Architecture
+![](https://github.com/abigailmwanza/Adventure-Works-DataEngineering-Project/blob/main/Images/Screenshot%202025-12-04%20at%2011.49.23.png)
